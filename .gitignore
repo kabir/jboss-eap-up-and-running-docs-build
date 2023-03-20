@@ -1,0 +1,9 @@
+.idea
+*/target
+node_modules
+tmp
+.build/yarn.lock
+.DS_Store
+kafka-quarkus-sbo
+code-examples/nodejs-kafka-quickstart
+**/README.html
